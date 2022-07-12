@@ -1,2 +1,2 @@
-# To-Do-List-Temporary
-This is a temporary repo to check code reviewer skills.
+# To-Do-List-temporary
+This is a temporary repo to have code review
